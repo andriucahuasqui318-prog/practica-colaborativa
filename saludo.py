@@ -1,1 +1,1 @@
-print("Sauldos desde el equipo B")
+print("Saludos desde el equipo A y equipo B")
